@@ -6,11 +6,13 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou a Luiza! E sou estudante de Analise e Desenvolvimento de Sistemas e nas horas vagas estudo programação. 
+ Olá 👋, sou a Luiza! E sou estudante de Análise e Desenvolvimento de Sistemas e, nas horas vagas, estudo programação.
 
-  - 🌱 Atualemtente, trabalho com Suporte Técnico de Redes, e com conhecimento de uma Analista de Rede!
+🌱 Atualmente, trabalho com Suporte Técnico de Redes e tenho conhecimento de uma Analista de Rede!
 
-  - 🔭 Estou aprimorando cada vez mais nos estudos para crescer cada vez mais. 
+🔭 Estou aprimorando cada vez mais meus estudos para crescer cada vez mais.
+
+
 </p>
 
 <!-- Dropdown -->
