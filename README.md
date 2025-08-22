@@ -58,11 +58,20 @@
 </div>
   
   <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
+  <!-- Skills: Networking -->
+<div style="flex-basis: 48%;">
   <h3>Networking</h3>
-  <img align="center" alt="Firewall" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/484/484662.png">
-  <img align="center" alt="VPN" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906361.png">
-  <img align="center" alt="DNS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888064.png">
-  <img align="center" alt="DHCP" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
+
+  <!-- Firewall -->
+  <img align="center" alt="Firewall" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Pfsense-logo.png">
+
+  <!-- VPN -->
+  <img align="center" alt="VPN" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/OpenVPN_logo.svg">
+
+  <!-- DNS -->
+  <img align="center" alt="DNS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/ISC_Bind9_logo.svg">
+
+  <!-- DHCP -->
+  <img align="center" alt="DHCP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/DHCP_logo.png">
 </div>
 
