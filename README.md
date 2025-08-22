@@ -23,15 +23,18 @@
 
 
 <!-- Links -->
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gihub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luiza-souza-544076355))
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizasouuza)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+## Skills de Redes
+| Skill       | Nível       |
+|------------|------------|
+| TCP/IP     | ██████▌    |
+| DHCP/DNS   | ██████     |
+| Firewalls  | █████▏     |
+| Wireshark  | █████▌     |
+| Linux CLI  | ███████    |
 
-<!-- Portfolio -->
-## Portfolio:
 
 <!-- GIF -->
   ![Image](https://github.com/user-attachments/assets/8b3808a9-0bef-4df9-b907-e0a54093c496)
