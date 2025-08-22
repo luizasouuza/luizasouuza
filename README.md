@@ -49,17 +49,20 @@
 </div>
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+ <div style="flex-basis: 48%;">
+  <h3>Infra & Cloud</h3>
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="VMware" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/VMware_logo.svg">
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+</div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
+  <h3>Networking</h3>
+  <img align="center" alt="Firewall" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/484/484662.png">
+  <img align="center" alt="VPN" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906361.png">
+  <img align="center" alt="DNS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888064.png">
+  <img align="center" alt="DHCP" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
+</div>
 
