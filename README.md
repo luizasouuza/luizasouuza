@@ -19,10 +19,8 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 20 anos e ainda estou aprendendo inglês, considerando meu nível como básico. Possuo amplo conhecimento em redes e estou me aprimorando bastante em Python. Já concluí diversos cursos, incluindo Assistente de Tecnologias da Informação e Formação em Redes. Tenho um bom entendimento da parte física do computador e utilizo Python frequentemente para automação e configuração de redes de computadores.
+  - 💬 Tenho 20 anos e atualmente estou em processo de aprendizado em inglês (nível básico). Possuo amplo conhecimento em Redes de Computadores, com experiência em suporte técnico remoto, oferecendo atendimento ágil e eficaz aos usuários. Atuo principalmente no diagnóstico e resolução de problemas de conectividade, garantindo estabilidade e eficiência nas conexões de rede no dia a dia.
 
-  - ⚡ Eu gosto de jogar e passar bastante tempo com minha família. Também gosto de estudar na maior parte do tempo, e minha principal motivação sempre foi minha família. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
-</details>
 
 <!-- Links -->
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
