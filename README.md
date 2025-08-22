@@ -52,8 +52,8 @@
  <div style="flex-basis: 48%;">
   <h3>Infra & Cloud</h3>
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="VMware" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/VMware_logo.svg">
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="VMware" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/VMware_logo.svg">
+  <img align="center" alt="AWS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
   <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
   
