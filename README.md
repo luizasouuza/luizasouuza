@@ -51,16 +51,5 @@
 <div style="flex-basis: 48%;">
   <h3>Infra & Cloud</h3>
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="VMware" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/vmware-352166.png">
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png">
-  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/azure-1868965-1583124.png">
-</div>
-
-<!-- Networking -->
-<div style="flex-basis: 48%;">
-  <h3>Networking</h3>
-  <img align="center" alt="Firewall" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/483/483291.png">
-  <img align="center" alt="VPN" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906361.png">
-  <img align="center" alt="DNS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888064.png">
-  <img align="center" alt="DHCP" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
 </div>
