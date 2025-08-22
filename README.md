@@ -39,13 +39,14 @@
   ![Image](https://github.com/user-attachments/assets/8b3808a9-0bef-4df9-b907-e0a54093c496)
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills: Networking -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+  <h3>Redes de Computadores</h3>
+  <img align="center" alt="Cisco" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="WindowsServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
+  <img align="center" alt="Networking" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png">
+</div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
