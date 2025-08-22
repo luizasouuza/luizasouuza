@@ -39,39 +39,28 @@
   ![Image](https://github.com/user-attachments/assets/8b3808a9-0bef-4df9-b907-e0a54093c496)
 
 ## 🔥 Skills
-<!-- Skills: Networking -->
-  <div style="flex-basis: 48%;">
+<!-- Redes de Computadores -->
+<div style="flex-basis: 48%;">
   <h3>Redes de Computadores</h3>
   <img align="center" alt="Cisco" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="WindowsServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Networking" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
+  <img align="center" alt="Windows Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
 </div>
-  
-  <!-- Skills: Tools & Frameworks -->
- <div style="flex-basis: 48%;">
+
+<!-- Infra & Cloud -->
+<div style="flex-basis: 48%;">
   <h3>Infra & Cloud</h3>
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="VMware" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VMware_Workstation_Logo.png">
-  <img align="center" alt="AWS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="VMware" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/vmware-352166.png">
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png">
+  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/azure-1868965-1583124.png">
 </div>
-  
-  <!-- Skills: Libraries -->
-  <!-- Skills: Networking -->
+
+<!-- Networking -->
 <div style="flex-basis: 48%;">
   <h3>Networking</h3>
-
-  <!-- Firewall -->
-  <img align="center" alt="Firewall" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Pfsense-logo.png">
-
-  <!-- VPN -->
-  <img align="center" alt="VPN" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/OpenVPN_logo.svg">
-
-  <!-- DNS -->
-  <img align="center" alt="DNS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/ISC_Bind9_logo.svg">
-
-  <!-- DHCP -->
-  <img align="center" alt="DHCP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/DHCP_logo.png">
+  <img align="center" alt="Firewall" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/483/483291.png">
+  <img align="center" alt="VPN" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906361.png">
+  <img align="center" alt="DNS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888064.png">
+  <img align="center" alt="DHCP" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
 </div>
-
