@@ -16,7 +16,7 @@
 </p>
 
 <!-- Dropdown -->
-<details>
+
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 20 anos e atualmente estou em processo de aprendizado em inglês (nível básico). Possuo amplo conhecimento em Redes de Computadores, com experiência em suporte técnico remoto, oferecendo atendimento ágil e eficaz aos usuários. Atuo principalmente no diagnóstico e resolução de problemas de conectividade, garantindo estabilidade e eficiência nas conexões de rede no dia a dia.
