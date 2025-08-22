@@ -45,7 +45,7 @@
   <img align="center" alt="Cisco" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="WindowsServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Networking" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png">
+  <img align="center" alt="Networking" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png">
 </div>
   
   <!-- Skills: Tools & Frameworks -->
